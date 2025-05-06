@@ -8,7 +8,7 @@
 ## 🎯 Objetivo del Proyecto
 
 Este sistema permite emitir credenciales personalizadas para un evento, a partir de una plantilla clonable.  
-Se aplican los patrones de diseño **Prototype** (para clonar credenciales) y **Singleton** (para configuración global del evento). (Redactar el suyo)
+Se aplican los patrones de diseño **Prototype** (para clonar credenciales).
 
 ---
 
@@ -32,29 +32,25 @@ java DemoEvento
 
 ## 🧠 Patrón Prototype – Aplicación
 
-
-
----
-
-## 🔒 Patrón Singleton – Aplicación
-
+![image](https://github.com/user-attachments/assets/f3a427be-a4a3-4dc7-acd0-679893c2c05f)
 
 ---
 
-## 🖥️ Menú por consola
+## 🖥️ Menú 
 
+
+![image](https://github.com/user-attachments/assets/89ad070e-2519-45d8-b588-28fdfe8d428b)
 
 ---
 
 ## 🧩 Diagrama de Clases (UML)
 
-![Diagrama de Clases UML](ruta/a/diagrama.png)  
-*(Incluir imagen del diagrama UML generado o escaneado)*
+![Uploading NL4zQyCm4Dq5-Wyt9WJJpgQ414-5PifOEbpamwYLJqOwPKZfVw_aEh5hJU9ztJlf40M3fDvf5Ryi3nYm1-CmngD8i9Saz6eyd-sDu5ahhKOEZiC0trf1FhiUBMymTB66SxPmz_wnrUfd5f-oeF4imJj7uUwhJA2Ms5XqbArlDifBCqAIeVqaYWQPAUJelyi43mwpp3ciOVPCVUYJJCfRdO.png…]()
+
 
 ---
 
+
 ## 📸 Captura del sistema funcionando
 
-Agregar una o más capturas de pantalla con credenciales personalizadas creadas por consola.
-
-![Captura del sistema](ruta/a/captura.png)
+![image](https://github.com/user-attachments/assets/408df33f-faff-46a7-a0ba-78f458f54948)
