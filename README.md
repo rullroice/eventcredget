@@ -45,7 +45,8 @@ java DemoEvento
 
 ## 🧩 Diagrama de Clases (UML)
 
-![Uploading NL4zQyCm4Dq5-Wyt9WJJpgQ414-5PifOEbpamwYLJqOwPKZfVw_aEh5hJU9ztJlf40M3fDvf5Ryi3nYm1-CmngD8i9Saz6eyd-sDu5ahhKOEZiC0trf1FhiUBMymTB66SxPmz_wnrUfd5f-oeF4imJj7uUwhJA2Ms5XqbArlDifBCqAIeVqaYWQPAUJelyi43mwpp3ciOVPCVUYJJCfRdO.png…]()
+![NL4zQyCm4Dq5-Wyt9WJJpgQ414-5PifOEbpamwYLJqOwPKZfVw_aEh5hJU9ztJlf40M3fDvf5Ryi3nYm1-CmngD8i9Saz6eyd-sDu5ahhKOEZiC0trf1FhiUBMymTB66SxPmz_wnrUfd5f-oeF4imJj7uUwhJA2Ms5XqbArlDifBCqAIeVqaYWQPAUJelyi43mwpp3ciOVPCVUYJJC (1)](https://github.com/user-attachments/assets/fc5e06b6-73ed-425f-9fb4-c0facbe0a702)
+
 
 
 ---
